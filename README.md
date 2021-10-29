@@ -21,7 +21,7 @@
 
 📈📊 **GitHub Stats**  
 
-[![Estadísticas de github de Anurag] (https://github-readme-stats.vercel.app/api?username=VictoriaTejeda)] (https://github.com/VictoriaTejeda)
+![Estadísticas de github de Anurag] (https://github-readme-stats.vercel.app/api?username=VictoriaTejeda)] (https://github.com/VictoriaTejeda)  
 [![Langs principales] (https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaTejeda&layout=compact)] (https://github.com/VictoriaTejeda)
 
 
