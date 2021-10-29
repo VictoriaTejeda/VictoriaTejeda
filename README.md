@@ -1,5 +1,5 @@
 <p align = ”centro”>
-![banner](https://github.com/VictoriaTejeda/VictoriaTejeda/blob/main/banner%20small.png)
+<img width = ”200" height = ”200" src = ”https://github.com/VictoriaTejeda/VictoriaTejeda/blob/main/banner%20small.png" alt = ”mi banner”>
 </p>
 
 👋 Hola, soy @VictoriaTejeda  
@@ -21,8 +21,9 @@
 
 📈📊 **GitHub Stats**  
 
-![Estadísticas de github de Anurag] (https://github-readme-stats.vercel.app/api?username=VictoriaTejeda)] (https://github.com/VictoriaTejeda)  
-[![Langs principales] (https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaTejeda&layout=compact)] (https://github.com/VictoriaTejeda)
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictoriaTejeda&show_icons=true)
+
 
 
                                                                                                                        
