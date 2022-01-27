@@ -1,5 +1,5 @@
 <p align = "centro">
-<img src = "https://github.com/VictoriaTejeda/VictoriaTejeda/blob/main/banner%20small.png" alt = "banner">
+<img src = "https://github.com/VictoriaTejeda/VictoriaTejeda/blob/main/Black%20Abstract%20We%20Are%20Hiring%20LinkedIn%20Banner%20(1).gif" alt = "banner">
 </p>
 
 👋 Hola, soy @VictoriaTejeda  
